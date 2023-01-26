@@ -41,7 +41,7 @@ Machine Learning opens up a world of opportunities to develop cutting edge appli
 - Setting up your environment with Conda, MiniConda, and Jupyter Notebooks
 - Using GPUs with Google Colab
 
-## Certifications courses:
+## Certifications:
 
 - IBM Data Analysis for Machine Learning
 - Complete Machine Learning & Data Science Bootcamp
