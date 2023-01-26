@@ -1,18 +1,16 @@
-## Corey Glaze
-### Machine Learning Engineer
 ![Machine Learning Engineer](https://github.com/cglaunchtech/tempImgs/blob/8012d1be2725c040c611e570831121e6e5c7acdb/tempimgs/github-header-image.png)
 
-#### About Me:
+## About Me:
 
 Entry Level Machine Learning Engineer with a proven track record of driving business results. I have fundamental understanding of various machine learning techniques and tools. Proactive problem-solver with strong analytical skills, translating business requirements into actionable data-driven solutions. I am constantly learning and keeping up to date with the latest developments in the field, I am excited to drive innovation in machine learning and artificial intelligence.
 
 I am currently enrolled at Mercer University pursing my M.S. Applied Data Intelligence & Machine Learning with an expected graduation date of May 2024.
 
-#### Why Machine Learning:
+## Why Machine Learning:
 
 Machine Learning opens up a world of opportunities to develop cutting edge applications. It has become the backbone of our lifestyles from image recognition to predicting potential health risk. The ability to train Artificial Intelligence to recognize behaviors and patterns so that we can have more innovative technologies that create opportunity and convenience is exhilerating. 
 
-#### Skills:
+## Skills:
 
 - Data Exploration and Visualizations
 - Neural Networks and Deep Learning 
@@ -43,12 +41,12 @@ Machine Learning opens up a world of opportunities to develop cutting edge appli
 - Setting up your environment with Conda, MiniConda, and Jupyter Notebooks
 - Using GPUs with Google Colab
 
-#### Certifications courses:
+## Certifications courses:
 
 - IBM Data Analysis for Machine Learning
 - Complete Machine Learning & Data Science Bootcamp
 
-#### What I'm working on:
+## What I'm working on:
 
 - More in depth Python Programming
 - Image Recognition Application
