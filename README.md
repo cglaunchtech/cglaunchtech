@@ -49,7 +49,6 @@ Machine Learning opens up a world of opportunities to develop cutting edge appli
 ## What I'm working on:
 
 - More in depth Python Programming
-- Image Recognition Application
-- Machine Learning Models
+- Dog Classification Model and App
 
 
