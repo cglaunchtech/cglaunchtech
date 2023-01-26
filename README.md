@@ -1,6 +1,6 @@
 ## Corey Glaze
 ### Machine Learning Engineer
-![Machine Learning Engineer](C:\Users\corey\Downloads\github-header-image.png")
+![Machine Learning Engineer](<img src="github-header-image.png" width=356 height=719>)
 
 #### About Me:
 
