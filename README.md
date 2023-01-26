@@ -1,6 +1,6 @@
 ## Corey Glaze
 ### Machine Learning Engineer
-![Machine Learning Engineer](<img src="github-header-image.png" width=356 height=719>)
+![Machine Learning Engineer](<tempimgs/github-header-image.png)
 
 #### About Me:
 
